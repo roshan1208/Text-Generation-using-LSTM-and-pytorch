@@ -83,7 +83,7 @@ diamonds, and the sort. and Alice looked at Alice. However.
 2. Clone the repo
 3. Run `main.py`  
 
-
+  
 ## Understand the Code
 ### 1. Train on simple LSTM Network
  
